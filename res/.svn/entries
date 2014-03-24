@@ -1,0 +1,43 @@
+10
+
+dir
+375
+http://libjingle.googlecode.com/svn/trunk/talk/examples/android/res
+http://libjingle.googlecode.com/svn
+
+
+
+2013-02-27T19:08:28.172522Z
+286
+mallinath@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dd674b97-3498-5ee5-1854-bdd07cd0ff33
+
+values
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+

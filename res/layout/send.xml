@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+
+
+<!--     <LinearLayout
+        android:id="@+id/llRemoteView"
+        android:layout_width="320dip"
+        android:layout_height="240dip"
+        android:background="#ffdfdd"
+        android:orientation="horizontal" > -->
+
+        <org.appspot.apprtc.VideoStreamsView
+            android:id="@+id/viewinfo"
+            android:layout_width="400dip"
+            android:layout_height="300dip"
+            
+            android:scaleType="fitXY" />
+<!--     </LinearLayout> -->
+    <LinearLayout
+        android:id="@+id/llLocalView"
+        android:layout_width="160dip"
+        android:layout_height="120dip"
+        android:background="#121212" >
+    </LinearLayout>
+</LinearLayout>

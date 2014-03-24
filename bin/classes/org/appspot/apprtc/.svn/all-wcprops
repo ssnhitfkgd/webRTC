@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/366/trunk/talk/examples/android/src/org/appspot/apprtc
+END
+FramePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/292/trunk/talk/examples/android/src/org/appspot/apprtc/FramePool.java
+END
+GAEChannelClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/327/trunk/talk/examples/android/src/org/appspot/apprtc/GAEChannelClient.java
+END
+AppRTCClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/356/trunk/talk/examples/android/src/org/appspot/apprtc/AppRTCClient.java
+END
+AppRTCDemoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/366/trunk/talk/examples/android/src/org/appspot/apprtc/AppRTCDemoActivity.java
+END
+VideoStreamsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/351/trunk/talk/examples/android/src/org/appspot/apprtc/VideoStreamsView.java
+END
